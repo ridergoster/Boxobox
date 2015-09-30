@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
+        jar="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/pre-dexed/debug/classes-6c8ffa9b32fdf778049d00580c5c4dd3d1befded.jar" />
+    </item>
+    <item
+        jar="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/pre-dexed/debug/classes-a543adfcaec33e217604ea74a79fb367c75d9b4f.jar" />
+    </item>
+    <item
         jar="/Users/Vincentk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a5403ce1adc9f6d61e2b74c1786606ac499ce5bd.jar" />
+        <dex dex="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a5403ce1adc9f6d61e2b74c1786606ac499ce5bd.jar" />
     </item>
     <item
-        jar="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/pre-dexed/debug/classes-5d034e45cbd82694224f86c9c66f2cab76c57ef0.jar" />
-    </item>
-    <item
-        jar="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/pre-dexed/debug/classes-e950c8b210b750be8b2914dba1f5f7072acf27a0.jar" />
-    </item>
-    <item
-        jar="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/Vincentk/AndroidStudioProjects/Boxobox/Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-63d890f89132f3e0f6b71287edca1c8a4865c875.jar" />
+        <dex dex="/Users/Vincentk/GitHub/Boxobox/Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-60968ff9edd060913074b16ec40c9cd2d4f52449.jar" />
     </item>
 
 </items>

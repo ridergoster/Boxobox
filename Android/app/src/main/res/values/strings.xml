@@ -10,4 +10,6 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+    <string name="Temperature">Temperature</string>
+    <string name="utilitaire">Utilitaires</string>
 </resources>
