@@ -1,0 +1,50 @@
+
+
+<head>
+  <title>Boxobox by Meteor</title>
+</head>
+
+<body>
+<section>
+
+	{{> intro}}
+  	{{> weather}}
+  	{{> message}}
+</section>
+</body>
+
+<template name="intro">
+	<div class="container">
+		<div class="jumbotron">
+			<h1>Boxobox</h1>      
+			<p>Boxobox, c'est un petit robot en devenir qui t'aidera dans la vie en collocation ! <a href="https://twitter.com/search?q=%23LOL" target="_blank">#LOL</a>
+			</p>
+		</div>     
+	</div>
+</template>
+
+<template name="weather">
+	<table>
+		<tr>
+			<td>
+				<button class="btn btn-primary" type="submit"><i class="mdi-file-cloud"></i><p>METEO</p></button>
+			</td>
+			<td>
+				<p id="meteo" >{{meteo}}</p>
+			</td>
+		</tr>
+	</table>
+</template>
+
+<template name="message">	
+		<form class="form-inline">
+		  <div class="form-group">
+		    <label for="SendMess">Envoies un Message à Boxo</label>
+		    <input type="text" class="form-control" id="text" name="text" placeholder="Hello World">
+		  </div>
+		  <button style="margin-top: 0px;margin-left: 10px;" type="submit" value="Submit" class="btn btn-primary btn-raised">
+		  	<i class="mdi-content-send"></i><p>Send</p>
+		  </button>
+		</form>
+</template>  
+

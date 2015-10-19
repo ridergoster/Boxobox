@@ -1,0 +1,51 @@
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4 {
+    font-family: RobotoDraft,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+}
+
+body{
+	background: url('img/bg.jpg');
+}
+section{
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 5em;
+}
+
+table{
+    margin: 0 auto;
+    text-align: center;
+    width: 308px;
+}
+td{
+    margin: 0 auto;
+    width: 154px;
+    text-align: center;
+}
+
+tr{
+    margin: 0 auto;
+    text-align: center;
+}
+
+p{
+	margin: 0;
+}
+
+form{
+	padding-top: 20px;
+	display: inline-flex;
+}
+
+p#meteo{
+    font-family: RobotoDraft,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    position: bottom;
+}
+
+button#sendbut{
+	margin-left: 20px;
+	margin-top: 0;
+}
